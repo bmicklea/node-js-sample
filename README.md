@@ -1,4 +1,4 @@
-# Budgetlist
+# Budget-to-Profit
 
 This magical application will take your unused budget and turn it into profit each and every month!
 
